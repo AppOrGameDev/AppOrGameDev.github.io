@@ -4,8 +4,7 @@
  - 本科/南京农业大学
  - 专业/计算机科学与技术 
  - 工作年限：4年
- - Github：https://github.com/AppOrGameDev ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
-
+ - Github：[https://github.com/AppOrGameDev](https://github.com/AppOrGameDev) 
  - 期望职位：JAVA高级工程师
  - 期望城市：南京
 
